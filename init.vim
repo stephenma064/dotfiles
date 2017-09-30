@@ -17,6 +17,7 @@ set hlsearch
 set number
 set smartcase
 set laststatus=0
+set rulerformat=%25(%f\ \ \ %P%)
 
 vmap <C-_> gc
 nmap <C-_> gcc
